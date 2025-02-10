@@ -2,6 +2,8 @@
 
 A modern e-commerce platform built with React, TypeScript, and Tailwind CSS.
 
+![image](https://github.com/user-attachments/assets/91caf3b5-9f81-4203-8890-394a6c8ba829)
+
 ## Features
 
 - 🛍️ Product browsing with search and filters
