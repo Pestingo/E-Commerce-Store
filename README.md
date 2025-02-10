@@ -85,4 +85,4 @@ For support or inquiries:
 This project is licensed under the MIT License.
 
 ---
-Created by Pestingo © 2024
+Created by Pestingo © 2025
